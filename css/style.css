@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+}
+
+
+.container{
+  background-color: rgb(33, 129, 207);
+  height: 1000px;
+}
+
+
+.h1{
+  text-align: center;
+  color:red;
+}
+
+
+.test p{
+  white-space: nowrap;
+  font-weight: bold;
+  margin: 0;
+}
+
+
+
+
+.answer i{
+  display: none;
+  color: white;
+}
+
+.folse{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  margin-right: 10px;
+}
+
+.true{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  margin-right: 10px;
+}
+
